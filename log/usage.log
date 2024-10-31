@@ -1,0 +1,42 @@
+2024-09-29 12:44:37 - [32minfo[39m: Creating configuration file...
+2024-09-29 12:44:37 - [32minfo[39m: Adding new script(s) in package.json...
+2024-09-29 12:44:37 - [32minfo[39m: Setup completed
+2024-09-29 12:48:46 - [32minfo[39m: Reading configs from C:\Users\Public\Automation\browserstack.yml
+2024-09-29 12:48:46 - [31merror[39m: expected a single document in the stream, but found more
+2024-09-29 12:48:46 - [31merror[39m: Error: expected a single document in the stream, but found more
+    at new BrowserStackSetup (C:\Users\Public\Automation\node_modules\browserstack-node-sdk\src\helpers\BrowserStackSetup.js:1:8537)
+    at run (C:\Users\Public\Automation\node_modules\browserstack-node-sdk\src\bin\playwright\command.js:2:7407)
+    at Object.fjPEk (C:\Users\Public\Automation\node_modules\browserstack-node-sdk\src\bin\runner.js:2:1180)
+    at captureError (C:\Users\Public\Automation\node_modules\browserstack-node-sdk\src\bin\runner.js:2:1275)
+    at Object.Rhktk (C:\Users\Public\Automation\node_modules\browserstack-node-sdk\src\bin\runner.js:2:8603)
+    at C:\Users\Public\Automation\node_modules\browserstack-node-sdk\src\bin\runner.js:2:8829
+    at _.applyBuilderUpdateUsageAndParse (C:\Users\Public\Automation\node_modules\yargs\build\index.cjs:1:7435)
+    at _.runCommand (C:\Users\Public\Automation\node_modules\yargs\build\index.cjs:1:7078)
+    at [runYargsParserAndExecuteCommands] (C:\Users\Public\Automation\node_modules\yargs\build\index.cjs:1:58539)
+    at te.parse (C:\Users\Public\Automation\node_modules\yargs\build\index.cjs:1:40478)
+2024-09-29 12:51:03 - [32minfo[39m: Reading configs from C:\Users\Public\Automation\browserstack.yml
+2024-09-29 12:51:03 - [31merror[39m: expected a single document in the stream, but found more
+2024-09-29 12:51:03 - [31merror[39m: Error: expected a single document in the stream, but found more
+    at new BrowserStackSetup (C:\Users\Public\Automation\node_modules\browserstack-node-sdk\src\helpers\BrowserStackSetup.js:1:8537)
+    at run (C:\Users\Public\Automation\node_modules\browserstack-node-sdk\src\bin\playwright\command.js:2:7407)
+    at Object.fjPEk (C:\Users\Public\Automation\node_modules\browserstack-node-sdk\src\bin\runner.js:2:1180)
+    at captureError (C:\Users\Public\Automation\node_modules\browserstack-node-sdk\src\bin\runner.js:2:1275)
+    at Object.Rhktk (C:\Users\Public\Automation\node_modules\browserstack-node-sdk\src\bin\runner.js:2:8603)
+    at C:\Users\Public\Automation\node_modules\browserstack-node-sdk\src\bin\runner.js:2:8829
+    at _.applyBuilderUpdateUsageAndParse (C:\Users\Public\Automation\node_modules\yargs\build\index.cjs:1:7435)
+    at _.runCommand (C:\Users\Public\Automation\node_modules\yargs\build\index.cjs:1:7078)
+    at [runYargsParserAndExecuteCommands] (C:\Users\Public\Automation\node_modules\yargs\build\index.cjs:1:58539)
+    at te.parse (C:\Users\Public\Automation\node_modules\yargs\build\index.cjs:1:40478)
+2024-09-29 12:52:35 - [32minfo[39m: Reading configs from C:\Users\Public\Automation\browserstack.yml
+2024-09-29 12:52:35 - [31merror[39m: expected a single document in the stream, but found more
+2024-09-29 12:52:35 - [31merror[39m: Error: expected a single document in the stream, but found more
+    at new BrowserStackSetup (C:\Users\Public\Automation\node_modules\browserstack-node-sdk\src\helpers\BrowserStackSetup.js:1:8537)
+    at run (C:\Users\Public\Automation\node_modules\browserstack-node-sdk\src\bin\playwright\command.js:2:7407)
+    at Object.fjPEk (C:\Users\Public\Automation\node_modules\browserstack-node-sdk\src\bin\runner.js:2:1180)
+    at captureError (C:\Users\Public\Automation\node_modules\browserstack-node-sdk\src\bin\runner.js:2:1275)
+    at Object.Rhktk (C:\Users\Public\Automation\node_modules\browserstack-node-sdk\src\bin\runner.js:2:8603)
+    at C:\Users\Public\Automation\node_modules\browserstack-node-sdk\src\bin\runner.js:2:8829
+    at _.applyBuilderUpdateUsageAndParse (C:\Users\Public\Automation\node_modules\yargs\build\index.cjs:1:7435)
+    at _.runCommand (C:\Users\Public\Automation\node_modules\yargs\build\index.cjs:1:7078)
+    at [runYargsParserAndExecuteCommands] (C:\Users\Public\Automation\node_modules\yargs\build\index.cjs:1:58539)
+    at te.parse (C:\Users\Public\Automation\node_modules\yargs\build\index.cjs:1:40478)
